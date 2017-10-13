@@ -161,7 +161,7 @@ footer p{
 	}
 	.main-header .main-nav{
 		transition: height 1s;
-    	height: 280px;
+    		height: 284px;
 		width: 98%;
 	}
 	.main-header .main-nav ul{
@@ -174,7 +174,6 @@ footer p{
 		display: block;
 		margin-right: 0;
 		width: 100%;
-		border-bottom: 1px solid #a3239b;
 	}
 	.main-header .main-nav li a{
 		margin-bottom: 2px;
@@ -220,7 +219,6 @@ footer p{
 		display: block;
 		margin-right: 0;
 		width: 100%;
-		border-bottom: 1px solid #a3239b;
 	}
 	.main-header .main-nav li a{
 		margin-bottom: 2px;
