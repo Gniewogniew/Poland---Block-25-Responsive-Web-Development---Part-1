@@ -219,6 +219,7 @@ footer p{
 		display: block;
 		margin-right: 0;
 		width: 100%;
+		border-bottom: 1px solid #ffffff;
 	}
 	.main-header .main-nav li a{
 		margin-bottom: 2px;
